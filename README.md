@@ -119,7 +119,6 @@ retail-sales-excel-dashboard/
 │   ├── raw/          # original dataset (add if license allows)
 │   └── cleaned/      # cleaned workbook
 ├── dashboard/        # final Excel dashboard
-├── images/           # dashboard screenshot
 └── docs/
     ├── cleaning_log.md
     ├── data_dictionary.md
