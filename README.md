@@ -128,8 +128,11 @@ retail-sales-excel-dashboard/
 
 ## Data source
 
-TODO: add the dataset name, link and license here.
+- Dataset: Retail Sales Dataset by `satyakidas07` on Kaggle
+- Kaggle description: "Best dataset to practice data cleaning"
+- License: TODO: check the License field on the Kaggle page and write it here before publishing. Include the raw CSV in `data/raw/` only if the license allows redistribution; otherwise link to Kaggle instead.
+- Note: the dataset is published for practice purposes, and its structure suggests it is not real transactional data. Conclusions describe this dataset only and should not be read as real-world business findings.
 
 ## Author
 
-TODO: your name, LinkedIn.
+TODO: Dian Ayu Fauziah, LinkedIn: https://www.linkedin.com/in/dian-ayu-fauziah-986708311/.
