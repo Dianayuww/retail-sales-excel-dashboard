@@ -1,0 +1,9 @@
+# Excel temp / recovery files
+~$*.xlsx
+~$*.xls
+*.tmp
+*.xlk
+*.asd
+# OS
+.DS_Store
+Thumbs.db
